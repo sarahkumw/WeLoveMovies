@@ -1,10 +1,10 @@
-# WeLoveMovies2
+# WeLoveMovies
 
 To run app locally:
 
 fork and clone repository
-- cd into movies-back-end, run npm install, run npm start
-- cd into starter-movie-front-end, run npm install, run npm start
+- cd into movies-back-end, run `npm install`, run `npm start`
+- cd into starter-movie-front-end, run `npm install`, run `npm start`
 
 To see deployed app on Heroku:
 
